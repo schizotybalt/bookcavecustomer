@@ -1,0 +1,62 @@
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\root.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\root.pdb
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\Antlr3.Runtime.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\Newtonsoft.Json.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Net.Http.Formatting.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Helpers.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Http.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Http.WebHost.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Mvc.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Optimization.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Razor.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\WebGrease.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\Newtonsoft.Json.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Net.Http.Formatting.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Helpers.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Http.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Http.WebHost.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Mvc.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.Razor.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\obj\Debug\root.csprojResolveAssemblyReference.cache
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\obj\Debug\root.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\BookCave\root\obj\Debug\root.pdb
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\root.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\root.pdb
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\BookCave.Service.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Net.Http.Formatting.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Helpers.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Http.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Http.WebHost.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Mvc.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Razor.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\EntityFramework.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\AutoMapper.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\BookCave.Service.pdb
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\Newtonsoft.Json.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Net.Http.Formatting.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Helpers.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Http.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Http.WebHost.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Mvc.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.Razor.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\EntityFramework.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\bin\AutoMapper.xml
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.csprojResolveAssemblyReference.cache
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.dll
+C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.pdb
