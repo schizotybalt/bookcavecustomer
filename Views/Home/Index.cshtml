@@ -19,7 +19,7 @@
             <div class="feat_prod_box">
                 <div class="prod_img">
                     <a href="details.html">
-                        <img src="http://ecx.images-amazon.com/images/P/@Html.DisplayFor(bookItem => book.Isbn)" width="98" alt="" title="" border="0" /></a>
+                        <img src="http://ecx.images-amazon.com/images/P/@Html.DisplayFor(bookItem => book.Isbn)" width="135" alt="" title="" border="0" /></a>
                 </div>
                 <div class="prod_det_box">
                     <div class="box_top"></div>
@@ -32,7 +32,7 @@
                             Average Content Age: @Html.DisplayFor(bookItem => book.AverageContentAge)<br />
                             <br />@Html.DisplayFor(bookItem => book.Summary)
                         </p>
-                        <a href="details.html" class="more">- more details -</a>
+                        <a href="book/@Html.DisplayFor(bookItem => book.Isbn13)" class="more">- more details -</a>
                         <div class="clear"></div>
                     </div>
                     <div class="box_bottom"></div>
@@ -106,7 +106,7 @@
             <br />
             <br />
  
-            <input type="submit" name="submit" />
+            <input type="submit" name="submit" value="Search"/>
         }
         @*        <div class="title">
             <span class="title_icon">
