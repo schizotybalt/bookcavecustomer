@@ -60,3 +60,34 @@ C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc 
 C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.csprojResolveAssemblyReference.cache
 C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.dll
 C:\Users\tiliska\Documents\Visual Studio 2012\Projects\prelininary bookcave mvc stuff\root\obj\Debug\root.pdb
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\root.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\root.pdb
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Net.Http.Formatting.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Helpers.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Http.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Http.WebHost.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Mvc.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Razor.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\EntityFramework.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\AutoMapper.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\BookCave.Service.pdb
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\Newtonsoft.Json.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Net.Http.Formatting.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Helpers.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Http.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Http.WebHost.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Mvc.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.Razor.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\EntityFramework.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\bin\AutoMapper.xml
+C:\Users\tiliska\Downloads\bookcavecustomer-master\obj\Debug\root.csprojResolveAssemblyReference.cache
+C:\Users\tiliska\Downloads\bookcavecustomer-master\obj\Debug\root.dll
+C:\Users\tiliska\Downloads\bookcavecustomer-master\obj\Debug\root.pdb

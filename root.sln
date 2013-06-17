@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "root", "root.csproj", "{1F0016B7-07DF-4257-9454-5233A09E59EE}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzurecaveUI", "..\AzurecaveUI\AzurecaveUI.ccproj", "{797E4E38-082C-47F3-9756-C75DBA819D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebRole1", "MvcWebRole1\MvcWebRole1.csproj", "{A25E55C9-F1E2-4CD5-A8AA-F2757E5D1FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{1F0016B7-07DF-4257-9454-5233A09E59EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F0016B7-07DF-4257-9454-5233A09E59EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F0016B7-07DF-4257-9454-5233A09E59EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797E4E38-082C-47F3-9756-C75DBA819D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797E4E38-082C-47F3-9756-C75DBA819D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797E4E38-082C-47F3-9756-C75DBA819D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797E4E38-082C-47F3-9756-C75DBA819D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25E55C9-F1E2-4CD5-A8AA-F2757E5D1FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25E55C9-F1E2-4CD5-A8AA-F2757E5D1FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25E55C9-F1E2-4CD5-A8AA-F2757E5D1FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25E55C9-F1E2-4CD5-A8AA-F2757E5D1FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

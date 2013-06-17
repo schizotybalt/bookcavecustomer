@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/style.css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div id="wrap">
+        <div class="header">
+            <div class="logo">
+                <a class="logo" href="~/home">
+                    The Book Cave</a>
+            </div>
+            <div id="menu">
+                <ul>
+                    <li class="selected"><a href="~/home">home</a></li>
+                    <li><a href="about.html">about us</a></li>
+                    <li><a href="books">books</a></li>
+                    <li><a href="myaccount.html">my account</a></li>
+                    <li><a href="register.html">register</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                </ul>
+            </div>
+        </div>
+        @RenderBody()
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </div>
+</body>
+</html>
